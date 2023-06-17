@@ -15,6 +15,7 @@ Cricket Manager is an future game where you can experience the thrill of managin
 
 Ready to embark on your journey as a cricket team manager? Keep visiting this page for updates.
 
+## Copyright
 
-
+© 2023 CricketManager.org. All rights reserved.
 
